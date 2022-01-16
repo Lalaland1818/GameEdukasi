@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Utama.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Pjlsn_bagi.unity
+    guid: d901cf76d7627cf4181db78a487b1a50
+  - enabled: 1
+    path: Assets/Scenes/Pjlsn_home.unity
+    guid: 5be3c83e57a53a2498e32485058f4bff
+  - enabled: 1
+    path: Assets/Scenes/Pjlsn_kali.unity
+    guid: 6d8ebf5826a677643bcdaf4efd977281
+  - enabled: 1
+    path: Assets/Scenes/Pjlsn_kurang.unity
+    guid: c971ca0df809e494fb68b26d53532566
+  - enabled: 1
+    path: Assets/Scenes/Pjlsn_tambah.unity
+    guid: 15bf930762943de478b38dff0073f825
+  - enabled: 1
+    path: Assets/Scenes/Profil.unity
+    guid: 71ad817fd5b679a4f92339eee7a12794
+  - enabled: 1
+    path: Assets/Scenes/Level_Kls4.unity
+    guid: fafea8cdb4c2040469fc3056b2483193
+  - enabled: 1
+    path: Assets/Scenes/Level_Kls5.unity
+    guid: d085ad634a2dc1a4d98dbd7bb18c3b98
+  - enabled: 1
+    path: Assets/Scenes/Level_Kls6.unity
+    guid: ee05e834bdcd39443803f638ddf73472
+  - enabled: 1
+    path: Assets/Scenes/Pilih Kelas.unity
+    guid: f304b93ac6d9fef47a49643230cfdea1
+  - enabled: 1
+    path: Assets/Scenes/Level_Kls3.unity
+    guid: 37239c96add791549b7f64f5a6273d2a
+  - enabled: 1
+    path: Assets/Scenes/Level_Kls2.unity
+    guid: babf4ef589b7057428cb098519633d2c
+  - enabled: 1
+    path: Assets/Scenes/Level_Kls1.unity
+    guid: 2fd01f5da14a68343a3bbb3c591858bf
+  m_configObjects: {}
